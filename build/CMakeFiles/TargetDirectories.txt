@@ -1,0 +1,3 @@
+/home/keqinglove/vision-homework/build/CMakeFiles/reprojection_app.dir
+/home/keqinglove/vision-homework/build/CMakeFiles/edit_cache.dir
+/home/keqinglove/vision-homework/build/CMakeFiles/rebuild_cache.dir
