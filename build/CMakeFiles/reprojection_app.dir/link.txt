@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/reprojection_app.dir/link.d CMakeFiles/reprojection_app.dir/src/main.cpp.o CMakeFiles/reprojection_app.dir/src/reprojection.cpp.o -o reprojection_app
